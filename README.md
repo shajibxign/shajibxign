@@ -16,7 +16,7 @@ I'm Shahrear, a prospective Software Engineering graduate from Firat University,
 ⚡ &emsp;Charging myself: Code, Code and Code!
 
 #### Front End Skills
-[![Html Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 
 #### Things I code with
