@@ -1,4 +1,4 @@
-<img src="https://github.com/shajibxign/shajibxign/blob/main/G-cover.png" />
+// <img src="https://github.com/shajibxign/shajibxign/blob/main/G-cover.png" />
 
 ## Hi there, Welcome to my profile! <img src="assets/hello.gif" width="28px" alt="hi">
 
