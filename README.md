@@ -6,7 +6,7 @@ I'm Shahrear, a prospective Software Engineering graduate from Firat University,
 
 :coffee: &emsp;Connect with me!
 
-# Portfolio: https://shajibxign.vercel.app/
+## website: https://shajibxign.vercel.app/
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shajibxign) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shajibshahrear@gmail.com) [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/905389304749)
 
