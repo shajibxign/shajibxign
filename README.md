@@ -2,9 +2,9 @@
 
 ## Hi there, Welcome to my profile! <img src="assets/hello.gif" width="28px" alt="hi">
 
-Frontend Engineer with 5+ years of experience building high-performance web and mobile applications using React.js, Next.js, TypeScript, and React Native.
+I'm a Software Engineer with 5+ years of experience specializing in Frontend Development using React.js, Next.js, TypeScript, and React Native.
 
-I've worked with startups and growing businesses, leading frontend development for products serving 100,000+ users and integrating thousands of APIs. Passionate about creating scalable, user-centric applications with clean architecture, modern UI/UX, and optimized performance. Dedicated to delivering reliable solutions that help businesses grow and succeed.
+I've built and scaled web and mobile applications for startups and businesses, contributing to products serving over 100,000 users. My expertise includes modern UI development, performance optimization, API integration, and scalable application architecture. I focus on delivering clean, maintainable code and exceptional user experiences that drive business growth.
 
 :coffee: &emsp;Connect with me!
 
