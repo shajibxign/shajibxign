@@ -2,7 +2,7 @@
 
 ## Hi there, Welcome to my profile! <img src="assets/hello.gif" width="28px" alt="hi">
 
-I'm Shahrear, a prospective Software Engineering graduate from Firat University, Turkey. I have enriched myself with skills in both front end and back end technologies. I bring a robust combination of technical proficiency and design sensibility. I love crafting the screens with my codes.
+Frontend Engineer with 5+ years of experience building high-performance web and mobile applications using React.js, Next.js, TypeScript, and React Native. I've worked with startups and growing businesses, leading frontend development for products serving 100,000+ users and integrating thousands of APIs. Passionate about creating scalable, user-centric applications with clean architecture, modern UI/UX, and optimized performance. Dedicated to delivering reliable solutions that help businesses grow and succeed.
 
 :coffee: &emsp;Connect with me!
 
